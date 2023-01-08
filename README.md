@@ -1,7 +1,8 @@
 # spritesheet_generator
 
-This is a simple program to generate a template for isometric sprite 
-tilesheets, in png format. For use with software such as [Tiled](https://www.mapeditor.org).
+This is a simple program to generate a sprite tilesheet, in png format. For use with software such as [Tiled](https://www.mapeditor.org).
+
+This gives you a template to use as a layer in your favourite image editing program, allowing you to create a tilesheet for use in your game.
 
 ## Installation
 
@@ -31,9 +32,8 @@ The `multiplier` option describes how 'tall' the tiles are. Normally you
 want some height to tiles to give them the illusion of depth and the ability
 to hide things behind them. If you are unsure, start with the default of 2.
 
-## Example
+## Example output
 
 ![Screenshot][screenshot]
-
 
 [screenshot]: https://raw.githubusercontent.com/tardisx/spritesheet_generator/main/example.png
