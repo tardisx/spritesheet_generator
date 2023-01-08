@@ -12,19 +12,19 @@ If you really want binaries, pester me :-)
 
 ## Usage
 
-`Usage of ./spritesheet_generator:
-  -height int
-    	base tile height in pixels (default 128)
-  -multiplier int
-    	tile height multiplier (default 2)
-  -output string
-    	output filename
-  -width int
-    	tile width in pixels (default 128)
-  -x int
-    	number of tiles across (default 8)
-  -y int
-    	number of tiles down (default 8)`
+    Usage of ./spritesheet_generator:
+    -height int
+            base tile height in pixels (default 128)
+    -multiplier int
+            tile height multiplier (default 2)
+    -output string
+            output filename
+    -width int
+            tile width in pixels (default 128)
+    -x int
+            number of tiles across (default 8)
+    -y int
+            number of tiles down (default 8)
 
 Hopefully these options are mostly self-explanatory.
 
