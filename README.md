@@ -6,9 +6,13 @@ This gives you a template to use as a layer in your favourite image editing prog
 
 ## Installation
 
-`go install github.com/tardisx/spritesheet_generator@latest`
+### Binary
 
-If you really want binaries, pester me :-)
+https://github.com/tardisx/spritesheet_generator/releases
+
+### From source
+
+`go install github.com/tardisx/spritesheet_generator@latest`
 
 ## Usage
 
