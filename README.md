@@ -1,3 +1,7 @@
+# ARCHIVED - 2025-05-23
+
+Due to GitHub's AI enshittification, this project has been moved to https://code.ppl.town/justin/spritesheet_generator
+
 # spritesheet_generator
 
 This is a simple program to generate a sprite tilesheet, in png format. For use with software such as [Tiled](https://www.mapeditor.org).
